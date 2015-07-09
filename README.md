@@ -1,4 +1,5 @@
 # steambot-master
 a steam website spider based on python scrapy
 
-require firefox browser
+project requires firefox browser.
+the spider obtains each game's price,name and release day.
